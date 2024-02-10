@@ -37,7 +37,7 @@ import pickle
 import numpy as np
 import streamlit as st
 
-mod = pickle.load(open('mod.pkl', 'rb'))
+mod = pickle.load(open('./mod.pkl', 'rb'))
 st.title('Auto Advisor: Know your Budget')
 col1, col2, col3, col4, col5 = st.columns(5)
 
