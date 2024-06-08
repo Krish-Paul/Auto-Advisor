@@ -1,3 +1,3 @@
 # Auto-Advisor
 
-A project determining car budget prediction based on age, gender, annual income, net assets, 
+A project determining car budget prediction based on age, gender, annual income, net assets and debt. 
